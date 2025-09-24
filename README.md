@@ -2,7 +2,7 @@
 
 **`Software Developer`**
 
-Sou Kaio, 29 anos, de São Paulo. Atualmente, curso Análise e Desenvolvimento de Sistemas na Universidade Paulista. Sou entusiasta de tecnologia e me dedico a aprender continuamente, buscando oportunidades para aplicar meus conhecimentos em projetos reais e soluções inovadoras.
+Sou Kaio, tenho 29 anos, nasci em São Paulo. Atualmente, curso Análise e Desenvolvimento de Sistemas na Universidade Paulista. Sou entusiasta de tecnologia e me dedico a aprender continuamente, buscando oportunidades para aplicar meus conhecimentos em projetos reais e soluções inovadoras.
 
 <p align="left"
     >
